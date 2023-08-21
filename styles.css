@@ -1,0 +1,36 @@
+.grid {
+  position: absolute;
+  width: 560px;
+  height: 300px;
+  background: linear-gradient(rgb(227, 227, 91), black, rgb(170, 75, 3));
+  border: solid 5px rgb(79, 9, 126);
+  margin-left: 470px;
+  margin-top: 57px;
+}
+
+h1{
+  text-align: center;
+  font-size: 40px;
+  padding-top: 100px;
+}
+.user {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background: rgb(91, 2, 91);
+}
+
+.block {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: blue;
+}
+
+.ball {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: rgb(247, 247, 247);
+}
